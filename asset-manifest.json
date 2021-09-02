@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://nebulae9b.github.io/csb-os0b8/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://nebulae9b.github.io/csb-os0b8/static/js/main.148157c0.chunk.js",
+    "main.js.map": "https://nebulae9b.github.io/csb-os0b8/static/js/main.148157c0.chunk.js.map",
+    "runtime~main.js": "https://nebulae9b.github.io/csb-os0b8/static/js/runtime~main.4604e10e.js",
+    "runtime~main.js.map": "https://nebulae9b.github.io/csb-os0b8/static/js/runtime~main.4604e10e.js.map",
+    "static/js/2.0c582926.chunk.js": "https://nebulae9b.github.io/csb-os0b8/static/js/2.0c582926.chunk.js",
+    "static/js/2.0c582926.chunk.js.map": "https://nebulae9b.github.io/csb-os0b8/static/js/2.0c582926.chunk.js.map",
+    "index.html": "https://nebulae9b.github.io/csb-os0b8/index.html",
+    "precache-manifest.d1a240a3327f8f0ecff6e7b997f584ca.js": "https://nebulae9b.github.io/csb-os0b8/precache-manifest.d1a240a3327f8f0ecff6e7b997f584ca.js",
+    "service-worker.js": "https://nebulae9b.github.io/csb-os0b8/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://nebulae9b.github.io/csb-os0b8/static/css/main.9b1431d8.chunk.css.map"
+  }
+}
